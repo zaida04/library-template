@@ -1,0 +1,6 @@
+tests/
+node_modules/
+dist/
+esm/
+
+*.config.js

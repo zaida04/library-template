@@ -1,0 +1,15 @@
+tests/
+src/
+.github/
+.vscode/
+
+.eslintrc.json
+package-lock.json
+tsconfig.json
+.prettierrc.json
+
+.gitignore
+.eslintignore
+
+output.log
+*.tsbuildinfo
