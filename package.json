@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zaida04/Quizizz.js.git"
+    "url": "git+https://github.com/zaida04/library-template.git"
   },
   "author": "Zaid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zaida04/Quizizz.js/issues"
+    "url": "https://github.com/zaida04/library-template/issues"
   },
-  "homepage": "https://github.com/zaida04/Quizizz.js#readme",
+  "homepage": "https://github.com/zaida04/library-template#readme",
   "devDependencies": {
     "@types/chai": "^4.2.12",
     "@types/mocha": "^8.0.3",
