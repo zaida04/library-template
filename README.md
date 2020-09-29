@@ -13,6 +13,8 @@ For TypeScript based API Wrappers and packages. Comes with `@discordjs/collectio
 
 If you wish to use the Semantic Release workflow, copy `.github/workflows/semantic.yml.example` into `.github/workflows/semantic.yml`
 
+## License
+
 **library-template** © [zaida04](https://github.com/zaida04), Released under the [MIT](https://github.com/zaida04/library-template/blob/master/LICENSE) License.  
 Authored and maintained by zaida04.
 
