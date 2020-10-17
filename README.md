@@ -6,10 +6,10 @@ For TypeScript based API Wrappers and packages. Comes with `@discordjs/collectio
 
 ## Usage
 - Clone/Create Repo from this Template
-- replace all occurences of `library-template` with your package name.
-- npm install
-- create the best package of your life
-- npm build && npm publish or use the implemented workflow that triggers on semantic message convention commits
+- Replace all occurences of `library-template` with your package name.
+- `npm i`
+- Create the best package of your life
+- `npm build` && `npm publish` or use the provided workflow that triggers on semantic message convention commits
 
 If you wish to use the Semantic Release workflow, copy `.github/workflows/semantic.yml.example` into `.github/workflows/semantic.yml`
 
